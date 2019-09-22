@@ -1,6 +1,6 @@
 ## Dependencies
 The code is compatible with vs2015 Enterprise. The following dependencies are needed to run the tracker:　　
-opencv3.4.1(GPU vision)　　
+opencv3.4.1(GPU vision)＜br/＞　
 CUDA 9.1 
 CUDNN　　
 Intel i5-8400 CPU
